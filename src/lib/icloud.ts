@@ -6,6 +6,7 @@ export async function getAlbumPhotos() {
     throw new Error('ICLOUD_ALBUM_TOKEN not configured');
   }
   
+  // @ts-expect-error - icloud-shared-album lacks TypeScript types
   const album = new ICloudSharedAlbum(token);
   return album.getPhotos();
 }
