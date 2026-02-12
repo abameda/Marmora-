@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "first-day",
+    "title": "The Beginning",
+    "date": "2026-02-09",
+    "caption": "The day everything changed 💜"
+  },
+  {
+    "id": "first-week",
+    "title": "Our First Week",
+    "date": "2026-02-16",
+    "caption": "A week of beautiful moments together ✨"
+  },
+  {
+    "id": "first-month",
+    "title": "One Month Together",
+    "date": "2026-03-09",
+    "caption": "Time flies when you're in love 💕"
+  }
+]
